@@ -1,3 +1,5 @@
+<h1> Contents </h1>
+
 Create user assgined managed Identity
 Create an App configuration with local auth disabled
 provide user assigned Identity App config reader role
@@ -13,6 +15,7 @@ Create an Event grid
 Create an Azure function App.
 Save keyvault url in function app configuration
 
-
+--------------- TODO ---------------
 Create 4 endpoints CRUD
 API tests using Newman
+------------------------------------

@@ -1,0 +1,4 @@
+$rgName= 'rg-del'
+az group create --name $rgName --location 'sweden central'
+
+az deployment group create --name ExampleDeployment --resource-group $rgName --template-file main.bicep --parameters ./dev.parameters.json

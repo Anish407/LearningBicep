@@ -8,7 +8,8 @@
 6. Assign the <a href='./service_bus/role_assignments/servicebus_roleAssignments.bicep'> Azure Service Bus Data Receiver </a> to the user assigned identity and my Id.
 7. Create an <a href='./app_service/appservice.bicep'> app Service and assign the user assigned identity to it  and  add the keyvault url and MSIID to Appsettings </a>
 
-
+<h3> OUTPUT </h3>
+<img height=400 width=600 src='./bicepfinal.jpg'>
 
 
 --------------- TODO ---------------
